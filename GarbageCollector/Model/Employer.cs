@@ -33,7 +33,7 @@ namespace GarbageCollector.Model
         /// <returns>Строку</returns>
         public override string ToString()
         {
-            return $" {name} в возрасте {age} лет";
+            return $"{name} в возрасте {age} лет";
         }
     }
 }
